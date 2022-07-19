@@ -35,7 +35,7 @@ class ViewController: UIViewController {
     }
     @IBAction func Exercising(_ sender: Any) {
     }
-    @IBAction func Again(_ sender: Any) {
+    @IBAction func TakeAgain(_ sender: Any) {
     }
     @IBAction func Begin(_ sender: Any) {
     }
